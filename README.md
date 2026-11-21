@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Xx1aoy1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Xx1aoy1&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  </picture>
+  <img src="https://img.shields.io/github/followers/Xx1aoy1?style=flat-square&label=followers&color=2da44e" alt="followers">
+  <img src="https://img.shields.io/github/repos/Xx1aoy1?style=flat-square&label=repos&color=0969da" alt="repos">
+  <img src="https://img.shields.io/github/stars/Xx1aoy1?style=flat-square&label=total%20stars&color=e3b341" alt="stars">
+  <img src="https://img.shields.io/github/contributors/Xx1aoy1/Xx1aoy1.github.io?style=flat-square&label=pages&color=8250df" alt="pages">
 </p>
 
 </div>
