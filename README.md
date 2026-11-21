@@ -20,6 +20,14 @@
   <img src="https://img.shields.io/github/contributors/Xx1aoy1/Xx1aoy1.github.io?style=flat-square&label=pages&color=8250df" alt="pages">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xx1aoy1/Xx1aoy1/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Xx1aoy1/Xx1aoy1/output/github-contribution-grid-snake.svg" alt="contribution snake">
+  </picture>
+</p>
+<sub align="center">我的提交变成了一条贪吃蛇 · 每天自动更新</sub>
+
 </div>
 
 ---
