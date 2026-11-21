@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Xx1aoy1?style=flat-square&label=followers&color=2da44e" alt="followers">
-  <img src="https://img.shields.io/github/repos/Xx1aoy1?style=flat-square&label=repos&color=0969da" alt="repos">
+  <img src="https://img.shields.io/badge/仓库-32个-0969da?style=flat-square" alt="repos">
   <img src="https://img.shields.io/github/stars/Xx1aoy1?style=flat-square&label=total%20stars&color=e3b341" alt="stars">
   <img src="https://img.shields.io/github/contributors/Xx1aoy1/Xx1aoy1.github.io?style=flat-square&label=pages&color=8250df" alt="pages">
 </p>
